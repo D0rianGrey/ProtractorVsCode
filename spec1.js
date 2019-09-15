@@ -5,7 +5,8 @@ describe('Protractor  baby steps', function () {
 
 		//write your raw protractor code
 
-        browser.get('https://angularjs.org');
+		browser.get('https://angularjs.org');
+		browser.get('https://google.com.ua')
 
 		
 
